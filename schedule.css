@@ -14,9 +14,9 @@ body{
 }
 .super{
 background-color: #781800;
-color-text: #A8D8F0;
+color: #A8D8F0;
 }
 .flip{
   background-color: #A8D8F0;
-  color-text: #781800
+  color: #781800
 }
