@@ -20,3 +20,7 @@ color: #A8D8F0;
   background-color: #A8D8F0;
   color: #781800
 }
+td:hover{
+  background-color: #FF1168
+  color-text:#2A2111
+}
