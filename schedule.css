@@ -2,7 +2,7 @@ table{
   text-align: left;
 }
 tr{
-  width:200px
+  width:200px;
 }
 h1{
   text-decoration: underline;
@@ -22,5 +22,4 @@ color: #A8D8F0;
 }
 td:hover{
   background-color: #FF1168
-  color-text:#2A2111
 }
