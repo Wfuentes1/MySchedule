@@ -1,0 +1,22 @@
+table{
+  text-align: left;
+}
+tr{
+  width:200px
+}
+h1{
+  text-decoration: underline;
+  font-weight: bold;
+}
+body{
+  background-color: #4878A8;
+  <!--Color Palette adapted from:http://www.colourlovers.com/palette/159844/Blue_Fox-->
+}
+.super{
+background-color: #781800;
+color-text: #A8D8F0;
+}
+.flip{
+  background-color: #A8D8F0;
+  color-text: #781800
+}
